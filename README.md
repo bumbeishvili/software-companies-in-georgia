@@ -27,4 +27,13 @@ List of software companies based in Georgia, ordered by employees
 <a href="https://www.facebook.com/AzRyCompany/">FB</a>
 </tr>
 
+<tr>
+<td>Omedia</td>
+<td><a href="https://omedia.dev/">omedia.dev</a></td>
+<td>11-50</td>
+<td>
+<a href="https://www.linkedin.com/company/omedia-dev/about/">Linkedin</a> , 
+<a href="https://www.facebook.com/omedia.dev/">FB</a>
+</tr>
+
 </table>
