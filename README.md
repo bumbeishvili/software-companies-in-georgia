@@ -1,5 +1,5 @@
 # Software Companies in Georgia
-List of software companies based in Georgia, ordered by employees  (Information, found in linkedin) count and then by alphabet
+List of software companies based in Georgia, ordered by employees count (based on linkedin)  and then  alphabetically
 
 
 <table>
