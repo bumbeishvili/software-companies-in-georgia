@@ -1,5 +1,5 @@
 # Software Companies in Georgia
-List of software companies based in Georgia, ordered by employees  (Information, found in linkedin)
+List of software companies based in Georgia, ordered by employees  (Information, found in linkedin) count and then by alphabet
 
 
 <table>
@@ -16,6 +16,16 @@ List of software companies based in Georgia, ordered by employees  (Information,
   <th>
    Channels
   </th>
+</tr>
+
+
+<tr>
+<td>ITDC</td>
+<td><a href="http://www.itdc.ge">itdc.ge</a></td>
+<td>51-200</td>
+<td>
+<a href="https://www.linkedin.com/company/itdc/about/">Linkedin</a> , 
+<a href="https://www.facebook.com/ITDCGeorgia/">FB</a>
 </tr>
 
 <tr>
