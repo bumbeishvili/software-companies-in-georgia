@@ -37,6 +37,15 @@ List of software companies based in Georgia, ordered by employees count (based o
 <a href="https://www.facebook.com/vabacosoftware/">FB</a>
 </tr>
 
+<tr>
+<td>Wandio</td>
+<td><a href="https://wandio.com">wandio.com</a></td>
+<td>51-200</td>
+<td>
+<a href="https://www.linkedin.com/company/wandio/about/">Linkedin</a> , 
+<a href="https://www.facebook.com/wandiodevelopment/">FB</a>
+</tr>
+
 
 <tr>
 <td>Azry</td>
