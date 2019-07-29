@@ -36,4 +36,13 @@ List of software companies based in Georgia, ordered by employees
 <a href="https://www.facebook.com/omedia.dev/">FB</a>
 </tr>
 
+<tr>
+<td>Lemondo</td>
+<td><a href="https://lemondo.com/">lemondo.com</a></td>
+<td>11-50</td>
+<td>
+<a href="https://www.linkedin.com/company/lemondo/about/">Linkedin</a> , 
+<a href="https://www.facebook.com/LemondoEntertainment">FB</a>
+</tr>
+
 </table>
