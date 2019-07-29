@@ -1,5 +1,5 @@
 # Software Companies in Georgia
-List of software companies based in Georgia, ordered by employees 
+List of software companies based in Georgia, ordered by employees  (Information, found in linkedin)
 
 
 <table>
@@ -17,6 +17,16 @@ List of software companies based in Georgia, ordered by employees
    Channels
   </th>
 </tr>
+
+<tr>
+<td>Vabaco</td>
+<td><a href="https://vaba.co/">vaba.co</a></td>
+<td>51-200</td>
+<td>
+<a href="https://www.linkedin.com/company/vabaco/about/">Linkedin</a> , 
+<a href="https://www.facebook.com/vabacosoftware/">FB</a>
+</tr>
+
 
 <tr>
 <td>Azry</td>
@@ -44,5 +54,9 @@ List of software companies based in Georgia, ordered by employees
 <a href="https://www.linkedin.com/company/lemondo/about/">Linkedin</a> , 
 <a href="https://www.facebook.com/LemondoEntertainment">FB</a>
 </tr>
+
+
+
+
 
 </table>
