@@ -56,6 +56,17 @@ List of software companies based in Georgia, ordered by employees count (based o
 <a href="https://www.facebook.com/AzRyCompany/">FB</a>
 </tr>
 
+
+<tr>
+<td>Lemondo</td>
+<td><a href="https://lemondo.com/">lemondo.com</a></td>
+<td>11-50</td>
+<td>
+<a href="https://www.linkedin.com/company/lemondo/about/">Linkedin</a> , 
+<a href="https://www.facebook.com/LemondoEntertainment">FB</a>
+</tr>
+
+
 <tr>
 <td>Omedia</td>
 <td><a href="https://omedia.dev/">omedia.dev</a></td>
@@ -66,13 +77,16 @@ List of software companies based in Georgia, ordered by employees count (based o
 </tr>
 
 <tr>
-<td>Lemondo</td>
-<td><a href="https://lemondo.com/">lemondo.com</a></td>
+<td>Pulsar.ai</td>
+<td><a href="https://pulsar.ai/">pulsar.ai</a></td>
 <td>11-50</td>
 <td>
-<a href="https://www.linkedin.com/company/lemondo/about/">Linkedin</a> , 
-<a href="https://www.facebook.com/LemondoEntertainment">FB</a>
+<a href="https://www.linkedin.com/company/pulsar-ai/about/">Linkedin</a> , 
+<a href="https://www.facebook.com/aibypulsar/">FB</a>
 </tr>
+
+
+
 
 
 
