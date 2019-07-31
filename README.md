@@ -68,6 +68,17 @@ List of software companies based in Georgia, ordered by employees count (based o
 
 
 <tr>
+<td>MaxinAI</td>
+<td><a href="https://maxin.ai/">maxin.ai</a></td>
+<td>11-50</td>
+<td>
+<a href="https://www.linkedin.com/company/maxin-ai/about/">Linkedin</a> , 
+<a href="https://www.facebook.com/MaxinAI-2129431614033886">FB</a>
+</tr>
+
+
+
+<tr>
 <td>Omedia</td>
 <td><a href="https://omedia.dev/">omedia.dev</a></td>
 <td>11-50</td>
