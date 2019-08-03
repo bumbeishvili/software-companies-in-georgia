@@ -20,6 +20,15 @@ List of software companies based in Georgia, ordered by company size  (based on 
 
 
 <tr>
+<td>Alta Software</td>
+<td><a href="http://www.altasoft.ge">altasoft.ge</a></td>
+<td>51-200</td>
+<td>
+<a href="https://www.linkedin.com/company/alta-software/about/">Linkedin</a> , 
+<a href="https://www.facebook.com/altasoft.ge/">FB</a>
+</tr>
+
+<tr>
 <td>ITDC</td>
 <td><a href="http://www.itdc.ge">itdc.ge</a></td>
 <td>51-200</td>
@@ -46,14 +55,6 @@ List of software companies based in Georgia, ordered by company size  (based on 
 <a href="https://www.facebook.com/wandiodevelopment/">FB</a>
 </tr>
 
-<tr>
-<td>Alta Software</td>
-<td><a href="http://www.altasoft.ge">altasoft.ge</a></td>
-<td>51-200</td>
-<td>
-<a href="https://www.linkedin.com/company/alta-software/about/">Linkedin</a> , 
-<a href="https://www.facebook.com/altasoft.ge/">FB</a>
-</tr>
 
 <tr>
 <td>Azry</td>
