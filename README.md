@@ -109,7 +109,7 @@ List of software companies based in Georgia, ordered by company size  (based on 
 <tr>
 <td>We Are De</td>
 <td><a href="https://wearede.com/">wearede.com</a></td>
-<td>?</td>
+<td>5-10</td>
 <td>
 <!--<a href="https://www.linkedin.com/company/pulsar-ai/about/">Linkedin</a>, --> 
 <a href="https://www.facebook.com/wearedecom/r/">FB</a>
