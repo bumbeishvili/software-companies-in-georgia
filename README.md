@@ -38,6 +38,26 @@ List of software companies based in Georgia, ordered by company size  (based on 
 </tr>
 
 <tr>
+<td>Leavingstone</td>
+<td><a href="https://www.leavingstone.com/">leavingstone.com</a></td>
+<td>51-200</td>
+<td>
+<a href="https://www.linkedin.com/company/leavingstone/about/">Linkedin</a> , 
+<a href="https://www.facebook.com/LeavingStone/">FB</a>
+</tr>
+
+<tr>
+<td>redBerry</td>
+<td><a href="http://redberry.ge">redberry.ge</a></td>
+<td>51-200</td>
+<td>
+<a href="https://www.linkedin.com/company/redberry-%E2%80%A2-%E1%83%A0%E1%83%94%E1%83%93%E1%83%91%E1%83%94%E1%83%A0%E1%83%98/about/">Linkedin</a> , 
+<a href="https://www.facebook.com/RayRedberry/">FB</a>
+</tr>
+
+
+
+<tr>
 <td>Vabaco</td>
 <td><a href="https://vaba.co/">vaba.co</a></td>
 <td>51-200</td>
