@@ -86,6 +86,19 @@ List of software companies based in Georgia, ordered by company size  (based on 
 </tr>
 
 
+
+
+
+<tr>
+<td>Elliot Webber</td>
+<td><a href="https://ew.ge">ew.ge</a></td>
+<td>11-50</td>
+<td>
+<a href="https://www.linkedin.com/company/elliot-webber/about/">Linkedin</a> , 
+<a href="https://www.facebook.com/WebberElliot/t">FB</a>
+</tr>
+
+
 <tr>
 <td>Lemondo</td>
 <td><a href="https://lemondo.com/">lemondo.com</a></td>
