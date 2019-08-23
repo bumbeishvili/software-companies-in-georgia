@@ -47,7 +47,7 @@ List of software companies based in Georgia, ordered by company size  (based on 
 </tr>
 
 <tr>
-<td>redBerry</td>
+<td>RedBerry</td>
 <td><a href="http://redberry.ge">redberry.ge</a></td>
 <td>51-200</td>
 <td>
