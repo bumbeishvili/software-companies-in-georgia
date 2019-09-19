@@ -16,6 +16,12 @@ List of software companies based in Georgia, ordered by company size  (based on 
   <th>
    Channels
   </th>
+   <th>
+    Tech 
+  </th>
+   <th>
+    Direction
+  </th>
 </tr>
 
 
@@ -35,6 +41,7 @@ List of software companies based in Georgia, ordered by company size  (based on 
 <td>
 <a href="https://www.linkedin.com/company/itdc/about/">Linkedin</a> , 
 <a href="https://www.facebook.com/ITDCGeorgia/">FB</a>
+<td>PHP</td>
 </tr>
 
 <tr>
@@ -73,6 +80,8 @@ List of software companies based in Georgia, ordered by company size  (based on 
 <td>
 <a href="https://www.linkedin.com/company/wandio/about/">Linkedin</a> , 
 <a href="https://www.facebook.com/wandiodevelopment/">FB</a>
+</td>
+<td>.Net</td>
 </tr>
 
 
@@ -146,6 +155,7 @@ List of software companies based in Georgia, ordered by company size  (based on 
 <td>
 <!--<a href="https://www.linkedin.com/company/pulsar-ai/about/">Linkedin</a>, --> 
 <a href="https://www.facebook.com/wearedecom/r/">FB</a>
+<td>WordPress</td>
 </tr>
 
 
