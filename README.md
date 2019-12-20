@@ -17,10 +17,7 @@ List of software companies based in Georgia, ordered by company size  (based on 
    Channels
   </th>
    <th>
-    Tech 
-  </th>
-   <th>
-    Direction
+    Tech stack and direction
   </th>
 </tr>
 
@@ -155,7 +152,15 @@ List of software companies based in Georgia, ordered by company size  (based on 
 <td>
 <!--<a href="https://www.linkedin.com/company/pulsar-ai/about/">Linkedin</a>, --> 
 <a href="https://www.facebook.com/wearedecom/r/">FB</a>
+  </td>
+  <td>
+PHP (pure), Laravel, WooCommerce Plugins, WP Plugins and Themes.
+React Native for app development.
+In front-end frameworks: React.Js, Ember.js
+Built some backend systems using node.js and even Ruby (RoR).
+  </td>
 </tr>
+
 
 
 
