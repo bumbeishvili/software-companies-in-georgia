@@ -155,7 +155,6 @@ List of software companies based in Georgia, ordered by company size  (based on 
 <td>
 <!--<a href="https://www.linkedin.com/company/pulsar-ai/about/">Linkedin</a>, --> 
 <a href="https://www.facebook.com/wearedecom/r/">FB</a>
-<td>WordPress</td>
 </tr>
 
 
