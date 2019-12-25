@@ -133,6 +133,8 @@ List of software companies based in Georgia, ordered by company size  (based on 
 <td>
 <a href="https://www.linkedin.com/company/omedia-dev/about/">Linkedin</a> , 
 <a href="https://www.facebook.com/omedia.dev/">FB</a>
+<td>
+PHP (Symfony, Drupal), JAVA, Node JS, React, React Native, Angular
 </tr>
 
 <tr>
