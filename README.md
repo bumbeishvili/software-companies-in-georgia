@@ -165,6 +165,17 @@ Built some backend systems using node.js and even Ruby (RoR).
 
 
 
+<tr>
+<td>Connect</td>
+<td><a href="https://connect.ge/">connect.ge</a></td>
+<td> </td>
+<td>
+<a href="https://www.facebook.com/connect.ge">FB</a>
+  </td>
+  <td>
+  </td>
+</tr>
+
 
 
 
