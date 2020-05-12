@@ -106,6 +106,16 @@ List of software companies based in Georgia, ordered by company size  (based on 
 
 
 <tr>
+<td>LionsHub</td>
+<td><a href="https://lionshub.de">lionshub.ge</a></td>
+<td>11-50</td>
+<td>, 
+<a href="https://www.facebook.com/lionshub.de">FB</a>
+</tr>
+
+
+
+<tr>
 <td>Lemondo</td>
 <td><a href="https://lemondo.com/">lemondo.com</a></td>
 <td>11-50</td>
@@ -163,6 +173,18 @@ Built some backend systems using node.js and even Ruby (RoR).
   </td>
 </tr>
 
+
+
+<tr>
+<td>Connect</td>
+<td><a href="https://connect.ge/">connect.ge</a></td>
+<td> </td>
+<td>
+<a href="https://www.facebook.com/connect.ge">FB</a>
+  </td>
+  <td>
+  </td>
+</tr>
 
 
 <tr>
