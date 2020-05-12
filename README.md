@@ -107,7 +107,7 @@ List of software companies based in Georgia, ordered by company size  (based on 
 
 <tr>
 <td>LionsHub</td>
-<td><a href="https://lionshub.de">lionshub.ge</a></td>
+<td><a href="https://lionshub.de">lionshub.de</a></td>
 <td>11-50</td>
 <td>
 <a href="https://www.facebook.com/lionshub.de">FB</a>
