@@ -156,6 +156,19 @@ PHP (Symfony, Drupal), JAVA, Node JS, React, React Native, Angular
 <a href="https://www.facebook.com/aibypulsar/">FB</a>
 </tr>
 
+  
+ <tr>
+<td>Insite </td>
+<td><a href="https://insite.international/en/">insite.international</a></td>
+<td>5-10</td>
+<td>
+<a href="https://www.linkedin.com/company/insite-%E2%80%A2-international/about/">Linkedin</a>
+<a href="https://www.facebook.com/insite.ge">FB</a>
+  </td>
+  <td>
+    Web Development
+  </td>
+</tr>
 
 <tr>
 <td>We Are De</td>
