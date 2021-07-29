@@ -169,6 +169,19 @@ PHP (Symfony, Drupal), JAVA, Node JS, React, React Native, Angular
     Web Development
   </td>
 </tr>
+  
+<tr>
+  <td>Nari Solutions</td>
+  <td><a href="https://www.nari.ge">nari.ge</a></td>
+  <td>5-10</td>
+  <td>
+    <a href="https://www.linkedin.com/company/narisolutions">LinkedIn</a>
+    <a href="https://www.facebook.com/narisolutions">FB</a>
+  </td>
+  <td>
+    Engineering, Design & IT Consulting
+  </td>
+</tr>
 
 <tr>
 <td>We Are De</td>
